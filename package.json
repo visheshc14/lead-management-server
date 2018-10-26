@@ -1,4 +1,16 @@
 @@ -17.10 +17.10 @@
+{
+  "name": "lead-management-server",
+  "version": "1.0.0",
+  "description": "Web app for lead management",
+  "main": "index.js",
+  "scripts": {
+    "test": "build",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboss-outreach/lead-management-server.git"
   },
   "author": "jboss-outreach",
   "license": "Apache-2.0",
