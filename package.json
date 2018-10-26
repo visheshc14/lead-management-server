@@ -1,5 +1,9 @@
 @@ -17.10 +17.10 @@
-  "url": "https://github.com/jboss-outreach/lead-management-server/issues"
+  },
+  "author": "jboss-outreach",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jboss-outreach/lead-management-server/issues"
   },
   "dependencies": {
   	"angular-patternfly": "4.13.3",
